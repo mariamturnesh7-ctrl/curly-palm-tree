@@ -4,7 +4,7 @@
 
 in the kenyan coast we have many palm trees
 
-###tools
+Tools
 1. excel
 2. power bi
 3. python
